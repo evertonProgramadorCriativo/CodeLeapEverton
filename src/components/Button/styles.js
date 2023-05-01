@@ -14,3 +14,4 @@ export const Button = styled.button`
   max-width: 350px;
   margin: 5rem 0rem 3rem;
 `;
+
